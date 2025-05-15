@@ -1,0 +1,53 @@
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  text-align: 50;
+}
+
+h1 {
+  text-align: center;
+  color: darkred;
+}
+
+h2 {
+  text-align: center;
+  color: darkred;
+}
+
+#missão {
+  font-size: 20px;
+  text-align: center;
+}
+
+img{
+  width: 100%;
+}
+
+.beneficios{
+  background-color: #ffffff;
+  padding: 20px;
+}
+.item{
+  font-style: italic;
+}
+
+.imagem-beneficios{
+  width: 50%;
+}
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+  text-align: right;
+}
+
+.principal{
+  background-color: #cccccc;
+  padding: 30px;
+}
